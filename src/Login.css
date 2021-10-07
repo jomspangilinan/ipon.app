@@ -1,0 +1,165 @@
+.main
+{
+  background: #FDFAF5;
+  min-height: 100vh;
+}
+.login-form
+{
+justify-content: center;
+min-height: 90vh;
+}
+
+.button-block{
+width: 100%;
+}
+
+.login-background
+{
+width: 396px;
+padding: 20px 0 28px;
+margin: 50% auto;
+border-radius: 50px;
+}
+.text-center
+{
+  text-align: center;
+}
+
+.App-logo-login {
+  
+  padding-bottom: 15px;
+  height: 150px;
+  width: 150px;
+  margin: 60px auto;
+}
+
+.logo-comp
+{
+  margin: 90px auto;
+}
+.button-block{
+  width: 100%;
+  }
+
+@import url(https://fonts.googleapis.com/css?family=Fredoka+One);
+.large {
+    font-family:'Fredoka One', sans-serif;
+    font-size: 50px;
+    color: #FBBD14;
+    margin-top: -80px;
+    padding-bottom: 10px;
+}
+.small {
+    font-family:'Fredoka One';
+    font-size: 40px;
+    color: #FBBD14;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+ .tag-large {
+  font-family:'Montserrat Medium', sans-serif;
+    font-size: 25px;
+    color: #707070;
+    margin-top: -35px;
+    margin-right: 100px;
+}
+
+
+.tag-next-large {
+  font-family:'Montserrat Medium', sans-serif;
+    font-size: 25px;
+    color: #707070;
+    margin-top: -25px;
+    margin-right: 100px;
+}
+
+.tag-next-test {
+  font-family:'Montserrat Medium', sans-serif;
+    font-size: 25px;
+    color: #707070;
+    margin-right: 100px;
+}
+
+.tag-next-balance {
+  font-family:'Montserrat Medium', sans-serif;
+    font-size: 15px;
+    
+}
+
+
+
+/* unvisited link */
+a:link {
+  color: #00CC97;
+ 
+}
+
+/* visited link */
+a:visited {
+  color: #00CC97;
+}
+
+/* mouse over link */
+a:hover {
+  color: #00BDFF;
+}
+
+/* selected link */
+a:active {
+  color: #00CC97;
+}
+
+a
+{
+    display:inline-block;
+}
+.test
+{
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+.test-reg
+{
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.sign
+{
+  color: #FBBD14;
+}
+.sign-link
+{
+  color: #FBBD14;
+  padding-left: 2px;
+  cursor: pointer;
+}
+.reg
+{
+  color: #FFF;
+}
+.reg-link
+{
+  color: #FFF;
+  padding-left: 2px;
+  cursor: pointer;
+}
+
+.fpw
+{
+  cursor: pointer;
+}
+
+
+.column {
+  float: none;
+  width: 90%;
+  padding-left: 100px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  
+}

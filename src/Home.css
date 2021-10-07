@@ -1,0 +1,15 @@
+
+.App-logo-home {
+  padding-top: 13px;
+  padding-bottom: 15px;
+  height: 90px;
+  width: 90px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Fredoka+One);
+ .large-home{
+    font-family:'Montserrat Medium', sans-serif;
+    font-size: 25px;
+    color: white;
+    padding-left: -20px;
+}
